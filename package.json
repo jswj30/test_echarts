@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jswj30/test_echarts/issues"
   },
-  "homepage": "https://github.com/jswj30/test_echarts#readme"
+  "homepage": "https://github.com/jswj30/test_echarts#readme",
+  "dependencies": {
+    "echarts": "^5.1.1"
+  }
 }
